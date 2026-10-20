@@ -2,7 +2,7 @@
 
 **Plataforma oficial de la liga municipal de fútbol 7 de Moralzarzal (Madrid), en producción en [ligamoralzarzal.com](https://ligamoralzarzal.com).**
 
-La he diseñado, desarrollado, desplegado y la mantengo yo solo, de principio a fin. Sustituyó a una web antigua en la que casi todo se hacía a mano: hoy la usan **más de 1.000 usuarios y 55 equipos** cada semana.
+La he diseñado, desarrollado, desplegado y la mantengo yo solo, de principio a fin. Sustituyó a una web antigua en la que casi todo se hacía a mano: hoy la usan **más de 1.000 usuarios y 65 equipos** cada semana.
 
 > El código fuente completo está en repositorios privados porque la aplicación gestiona datos personales reales de jugadores. Este repositorio muestra la arquitectura, las funcionalidades y algunos fragmentos de código representativos. Si quieres ver más, escríbeme y te lo enseño en una entrevista.
 
@@ -15,7 +15,7 @@ La he diseñado, desarrollado, desplegado y la mantengo yo solo, de principio a 
 | | |
 |---|---|
 | 👥 Usuarios | **+1.000** (jugadores, delegados, capitanes, árbitros y administradores) |
-| 🏟️ Equipos | **55**, en varias divisiones y categorías |
+| 🏟️ Equipos | **65**, en varias divisiones y categorías |
 | ⚙️ API REST | **60+ controladores** y **300+ endpoints** |
 | 🗄️ Base de datos | PostgreSQL con **98 migraciones Flyway** aplicadas en producción sin perder datos |
 | 🖥️ Frontend | Angular 20, más de 30 pantallas, pensado para el móvil |
